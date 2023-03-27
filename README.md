@@ -2,7 +2,7 @@
 
 ## Index:
 
-### -  [Microservice architecture](#Microservice architecture)
+### - [Microservice architecture](#Microservice architecture)
 
 ### - [Business Logic](#business-logic)
 
